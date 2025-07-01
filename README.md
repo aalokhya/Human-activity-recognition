@@ -4,7 +4,6 @@ This repository presents a deep learning approach for classifying human activiti
 
 > 🔬 Note: This project focuses exclusively on model training and evaluation. No real-time prediction or UI integration is included.
 
----
 
 ## 📊 Dataset
 
@@ -18,7 +17,6 @@ This repository presents a deep learning approach for classifying human activiti
   - `STANDING`
   - `LAYING`
 
----
 
 ## 🧠 Model Overview
 
@@ -30,14 +28,12 @@ This repository presents a deep learning approach for classifying human activiti
   - TensorFlow  
   - Keras
 
----
 
 ## 📁 Files Included
 
 - `human_activity_recognition Activity 12.ipynb`:  
   Main Jupyter Notebook containing the entire pipeline — from data preprocessing to model training and evaluation.
 
----
 
 ## 📚 Reference
 
@@ -45,7 +41,6 @@ Anguita, D. et al. (2013).
 *Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine.*  
 Proceedings of the International Workshop on Ambient Assisted Living.
 
----
 
 ## 📝 License
 
