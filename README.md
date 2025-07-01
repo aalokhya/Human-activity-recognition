@@ -31,7 +31,7 @@ This repository presents a deep learning approach for classifying human activiti
 
 ## 📁 Files Included
 
-- `human_activity_recognition Activity 12.ipynb`:  
+- `human_activity_recognition.ipynb`:  
   Main Jupyter Notebook containing the entire pipeline — from data preprocessing to model training and evaluation.
 
 
